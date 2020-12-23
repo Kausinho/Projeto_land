@@ -98,3 +98,7 @@ html,body{
 .form input[type=submit]:hover{
 	background-color: 323665;
 }
+
+.container-list{
+	float: left;
+}
